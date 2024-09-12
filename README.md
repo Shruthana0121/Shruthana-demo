@@ -1,4 +1,4 @@
 # Shruthana-demo
 It's my first repository.
 <br>
-Author - Shruthana
+Author - Shruthana (It's a demo code)
